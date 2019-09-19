@@ -1,0 +1,28 @@
+body {
+    background: #f7f8f8;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.border{
+    background: #0697f846;
+
+}
+
+.colorCont{
+    background: #fff;
+}
+
+
+.card-item {
+    box-shadow: 0 4px 8px 0 rgba(148, 241, 67, 0.068);
+    transition: 0.3s;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.card-item:hover {
+    box-shadow: 0 8px 16px 0 rgba(117, 250, 65, 0.562);
+}
