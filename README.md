@@ -1,2 +1,5 @@
 # Taller-JS
-tALLER JS ELECTIVA
+TALLER JS ELECTIVA
+
+### Autor
+Niño Verdugo Nelson
